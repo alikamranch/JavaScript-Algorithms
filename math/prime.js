@@ -1,7 +1,7 @@
 /**
  * Returns true if the provided number is a prime number, false otherwise
  * @param {*} number
- * @returns
+ * @returns true if the number is prime number
  */
 function isPrime(number) {
   if (number < 2) {

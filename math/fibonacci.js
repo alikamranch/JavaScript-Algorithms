@@ -1,7 +1,7 @@
 /**
  * Calculates the fibonacci sequence based on the given number
  * @param {*} number
- * @returns
+ * @returns the fibonacci sequence
  */
 function fibonacci(number) {
   const response = [0, 1];
